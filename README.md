@@ -4,7 +4,7 @@ Hi there! I'm Jakub, a computer science student. On this page, I'd like to share
 
 ## About Me
 
-- 📚 I'm studying computer science at Zachod.
+- 📚 I'm studying computer science at West Pomeranian University of Technology in Szczecin.
 - 💻 I have a passion for programming, particularly in C++ and Python.
 - 🌐 I'm excited to share my projects and solutions on GitHub.
 
